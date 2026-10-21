@@ -29,4 +29,4 @@
 ## Автор
 
 - Студент: **Маркус Филипп**
-- GitHub: [@rMononoke](https://github.com/rMononoke)
+- GitHub: [[@rMononoke](https://github.com/rMononoke)](https://github.com/username/ono-tebe-nado-ad)
