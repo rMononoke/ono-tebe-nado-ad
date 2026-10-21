@@ -1,8 +1,12 @@
 # Проектная работа «Оно тебе надо»
 
+https://github.com/rMononoke/ono-tebe-nado-ad
+
 Одностраничный сайт (лендинг) онлайн-аукциона необычных вещей «Оно тебе надо — аукцион вещей, в которые никто не верил».
 
 Проект выполнен в рамках курса «Фронтенд-разработчик» от Яндекс Практикума (Спринт 2: «Вёрстка. Семантика и лейаут»).
+
+Ссылка на репозиторий: https://github.com/rMononoke/ono-tebe-nado-ad
 
 ## Стек технологий
 
@@ -29,4 +33,4 @@
 ## Автор
 
 - Студент: **Маркус Филипп**
-- GitHub: [[@rMononoke](https://github.com/rMononoke)](https://github.com/username/ono-tebe-nado-ad)
+- GitHub: https://github.com/rMononoke/ono-tebe-nado-ad
